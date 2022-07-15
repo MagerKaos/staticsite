@@ -1,7 +1,9 @@
 ## This is the main page
 ----
 ### Instructions
-.Downlaod the app
-.Create Account
-.Enroll
+1. Downlaod the app
+
+2. Create Account
+
+3. Enroll
 
