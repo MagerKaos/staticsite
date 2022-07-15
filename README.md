@@ -7,3 +7,4 @@
 
 3. Enroll
 
+4. Report as directed
